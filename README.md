@@ -5,11 +5,11 @@ It's totally compatible with other 4.1bb versions (with the small exception of M
 ## How to install
 
 ### Manual
-- Move the files you downloaded (EnhancedTAK.exe, EnhancedTAK.hpi and MonarchsFix.hpi) to your TA:K folder.
+- Move the files you downloaded (EnhancedTAK.exe, EnhancedTAK.hpi and MonarchsFix.hpi) to your TA:K folder (i.e. C:\Cavedog\Kingdoms).
 - Launch EnhancedTAK.exe (you may want to create a shortcut for it too).
 
 Use [DXWnd](http://kingdoms.catsboard.com/t1522-how-to-use-dxwnd) to improve even more your experience.  
-The reason Monarchs Fix is separated is that, when playing on different versions, your opponent monarch animation won't work. So you may want to disable it when playing multiplayer (it's just a visual thing tho).
+The reason Monarchs Fix is separated is that, when playing on different versions, your opponent monarch animation won't work. So you may want to disable it when playing multiplayer by moving it out of the folder (it's just a visual thing tho).
 
 ### Auto install
 - Not available yet.
