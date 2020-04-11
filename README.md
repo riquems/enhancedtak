@@ -50,7 +50,7 @@ The reason Monarchs Fix is separated is that, when playing on different versions
 
 #### Zhon
 - Fixed Thirsha 2nd weapon not being guided.
-- Fixed Wisp attack delay.
+- Fixed Wisp not attacking consistently.
 
 #### Creon
 - Fixed Gate not being targetted by units automatically.
