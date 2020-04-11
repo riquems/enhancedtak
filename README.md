@@ -17,11 +17,11 @@ The reason Monarchs Fix is separated is that, when playing on different versions
 
 * Doesn't use a wrapper for .icd file, allowing DXWnd to patch it correctly.  
   [What is DXWnd and how to use it?](http://kingdoms.catsboard.com/t1522-how-to-use-dxwnd)
-* Command line params allowed  
+* Command line params allowed.  
   [More info on command line params](http://kingdoms.catsboard.com/t1257-tak-target-command-line-parameters)
 * No-CD patch.
   
-* PathFinding improved (raised from 12,000 to 100,000 path cycles).
+* PathFinding improved (raised from 12,000 to 100,000 path cycles).  
   [PathFinding Study (Not available yet)]()
 
 * Game doesn't pause anymore when minimizing during SinglePlayer games.
