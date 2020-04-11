@@ -36,20 +36,20 @@ The reason Monarchs Fix is separated is that, when playing on different versions
 
 - In special, Kirenna delays to attack, sometimes you would click and she wouldn't attack.
 
-Aramon
+#### Aramon
 - Fixed Mage Archer paralyze weapon.
 - Fixed Knight not having frozen statue.
 
-Taros
+#### Taros
 - Fixed Fire Demon's attack delay against flying units.
 - Fixed Fire Mage first attack not hitting goblins.
 
-Veruna
+#### Veruna
 - Fixed Centaur weapon not being guided.
 
-Zhon
+#### Zhon
 - Fixed Thirsha 2nd weapon not being guided.
 - Fixed Wisp attack delay.
 
-Creon
+#### Creon
 - Fixed Gate not being targetted by units automatically.
