@@ -1,5 +1,6 @@
 # Enhanced TA:K
 Adds new features and bugfixes to improve TA:K experience.
+It's totally compatible with other 4.1bb versions (with the small exception of Monarch fixes, which will bug opponent monarch animation if his version is different).
 
 ## How to install
 
