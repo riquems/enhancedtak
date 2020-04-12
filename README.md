@@ -4,11 +4,14 @@ It's totally compatible with other 4.1bb versions (with the small exception of M
 
 ## How to install
 
-- Move the files you downloaded (EnhancedTAK.exe, EnhancedTAK.hpi and MonarchsFix.hpi) to your TA:K folder (i.e. C:\Cavedog\Kingdoms).
+- Move the files you downloaded (Kingdoms.exe, EnhancedTAK.hpi and MonarchsFix.hpi) to your TA:K folder (i.e. C:\Cavedog\Kingdoms).
 - Launch EnhancedTAK.exe (you may want to create a shortcut for it too).
 
 Use [DXWnd](http://kingdoms.catsboard.com/t1522-how-to-use-dxwnd) to improve even more your experience.  
-The reason Monarchs Fix is separated is that, when playing on different versions, your opponent monarch animation won't work. So you may want to disable it when playing multiplayer by moving it out of the folder (it's just a visual thing tho).
+
+The reason Monarchs Fix is separated is that, when playing on different versions, your opponent monarch animation won't work. So you may want to disable it when playing multiplayer by moving it out of the folder (it's just a visual thing tho).  
+
+Also, GameRanger won't accept any file that is not called Kingdoms so I renamed it to Kingdoms.exe. You can overwrite or backup your own file. The real original executable is the .icd file anyway (you can rename it to .exe and run it).
 
 ## Features
 
