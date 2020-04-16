@@ -20,7 +20,9 @@ Also, GameRanger won't accept any file that is not called Kingdoms so I renamed 
 * Command line params allowed.  
   [More info on command line params](http://kingdoms.catsboard.com/t1257-tak-target-command-line-parameters)
 * No-CD patch.
-  
+
+* Increases max unit limit from 500 to 5000.
+
 * PathFinding improved (raised from 12,000 to 100,000 path cycles).  
   [PathFinding Study (Not available yet)]()
 
@@ -29,6 +31,10 @@ Also, GameRanger won't accept any file that is not called Kingdoms so I renamed 
 * Uses Extreme AI as default AI.
 
 ## Bug Fixes
+
+#### Engine
+
+- The game now saves your previous Max Units value used in multiplayer matches properly.
 
 #### Monarchs' Fix
 
