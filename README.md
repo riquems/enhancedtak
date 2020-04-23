@@ -17,9 +17,8 @@ The reason Monarchs Fix is separated is that, when playing on different versions
 Also, GameRanger won't accept any file that is not called Kingdoms so I renamed it to Kingdoms.exe. You can overwrite or backup your own file. The real original executable is the .icd file anyway (you can rename it to .exe and run it).
 
 ## Features
+* New badass icon.
 
-* Doesn't use a wrapper for .icd file, allowing DXWnd to patch it correctly.  
-  [What is DXWnd and how to use it?](http://kingdoms.catsboard.com/t1522-how-to-use-dxwnd)
 * Command line params allowed.  
   [More info on command line params](http://kingdoms.catsboard.com/t1257-tak-target-command-line-parameters)
 * No-CD patch.
@@ -38,6 +37,7 @@ Also, GameRanger won't accept any file that is not called Kingdoms so I renamed 
 #### Engine
 
 - The game now saves your unit limit value used in your previous multiplayer match properly.
+- Some screen changes will be faster now.
 
 #### Monarchs' Fix
 
