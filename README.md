@@ -7,6 +7,7 @@ It's totally compatible with other 4.1bb versions (with the small exception of M
 - Simply move the files you downloaded to your TA:K root folder (i.e. C:\Cavedog\Kingdoms).
 - These are the files needed:
   - Kingdoms.exe
+  - EnhancedTAK.dll
   - EnhancedTAK.hpi
   - MonarchsFix.hpi
 
