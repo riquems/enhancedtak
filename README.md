@@ -47,15 +47,16 @@ Also, GameRanger won't accept any file that is not called Kingdoms so I renamed 
 - In special, Kirenna delays to attack, sometimes you would click and she wouldn't attack.
 
 #### Aramon
-- Fixed Mage Archer paralyze weapon.
+- Fixed Mage Archer paralyze weapon, adjusted for 5s stuns.
 - Fixed Knight not having frozen statue.
 
 #### Taros
-- Fixed Fire Demon's attack delay against flying units.
+- Fixed Fire Demon's attack delay against flying/moving units.
 - Fixed Fire Mage first attack not hitting goblins.
 
 #### Veruna
 - Fixed Centaur weapon not being guided.
+- Fixed Lighthouse paralyze weapon, adjusted for 1s stuns.
 
 #### Zhon
 - Fixed Thirsha 2nd weapon not being guided.
@@ -63,3 +64,4 @@ Also, GameRanger won't accept any file that is not called Kingdoms so I renamed 
 
 #### Creon
 - Fixed Gate not being targetted by units automatically.
+- Fixed Creon Chief paralyze weapon, adjusted for 10s stuns.
