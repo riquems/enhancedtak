@@ -49,10 +49,12 @@ Also, GameRanger won't accept any file that is not called Kingdoms so I renamed 
 #### Aramon
 - Fixed Mage Archer paralyze weapon, adjusted for 5s stuns.
 - Fixed Knight not having frozen statue.
+- Switched Acolyte 1st and 2nd weapon positions.
 
 #### Taros
 - Fixed Fire Demon's attack delay against flying/moving units.
 - Fixed Fire Mage first attack not hitting goblins.
+- Switched Weather Witch 1st and 2nd weapon positions.
 
 #### Veruna
 - Fixed Centaur weapon not being guided.
@@ -60,6 +62,7 @@ Also, GameRanger won't accept any file that is not called Kingdoms so I renamed 
 
 #### Zhon
 - Fixed Thirsha 2nd weapon not being guided.
+- Adjusted Thirsha 2nd weapon velocity to match previous velocity (before being guided).
 - Fixed Wisp not attacking consistently.
 
 #### Creon
