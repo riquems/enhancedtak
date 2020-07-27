@@ -47,6 +47,7 @@ Also, GameRanger won't accept any file that is not called Kingdoms so I renamed 
 - In special, Kirenna delays to attack, sometimes you would click and she wouldn't attack.
 
 #### Aramon
+- Fixed Elsin wave bug where he couldn't wave for the rest of the match.
 - Fixed Mage Archer paralyze weapon, adjusted for 5s stuns.
 - Fixed Knight not having frozen statue.
 
