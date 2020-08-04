@@ -336,6 +336,6 @@ lifsaber.fbi
 
 ## Credits
 
-Paladin for many findings and ideas. Most of his contributions can be found here: https://kingdoms.catsboard.com/t1445-patch-bugs-balance-improvements
-WhiteHammer for ExtremeAI
-WL- Albino for tests and time.
+Paladin for many findings and ideas. Most of his contributions can be found here: https://kingdoms.catsboard.com/t1445-patch-bugs-balance-improvements  
+WhiteHammer for ExtremeAI  
+WL- Albino for tests and time.  
