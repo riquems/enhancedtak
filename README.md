@@ -1,11 +1,6 @@
 # Enhanced TA:K
-<<<<<<< HEAD
-Adds new features and bugfixes to improve TA:K experience.
-It's totally compatible with other 4.1bb versions!
-=======
 Adds new features and bugfixes to improve TA:K Crusades Balance experience.
 It's totally compatible with other 4.1bb versions.
->>>>>>> 65114ad1cc6949d9df84b8800302ab68b43d73c8
 
 ## How to install
 
@@ -17,11 +12,7 @@ It's totally compatible with other 4.1bb versions.
 
 Use [DXWnd](http://kingdoms.catsboard.com/t1522-how-to-use-dxwnd) to improve even more your experience.  
 
-<<<<<<< HEAD
-GameRanger won't accept any file that is not called Kingdoms so I renamed it to Kingdoms.exe. You can overwrite or backup your own file. The real original executable is the .icd file anyway (you can rename it to .exe and run it).
-=======
 Also, GameRanger won't accept any file that is not called Kingdoms so I renamed it to Kingdoms.exe. You can overwrite or backup your own file. The real original executable is the .icd file anyway (you can rename it to .exe and run it).
->>>>>>> 65114ad1cc6949d9df84b8800302ab68b43d73c8
 
 ## Features
 * New badass icon.
@@ -57,16 +48,10 @@ Also, GameRanger won't accept any file that is not called Kingdoms so I renamed 
 - Some screen changes will be faster now.
 
 #### Aramon
-<<<<<<< HEAD
-- Fixed Elsin wave bug where he couldn't wave for the rest of the match.
-- Fixed Mage Archer paralyze weapon, adjusted for 5s stuns.
-- Fixed Knight not having frozen statue.
-=======
 - Fixed Elsin wave which would stop working for the rest of the match.
 - Fixed Mage Archer paralyze weapon, adjusted for 2s stuns.
 - Fixed Knight being freezable.
 - Swapped Acolyte 1st and 2nd weapon.
->>>>>>> 65114ad1cc6949d9df84b8800302ab68b43d73c8
 
 #### Taros
 - Fixed Fire Demon's attack delay against flying/moving units.
@@ -74,19 +59,11 @@ Also, GameRanger won't accept any file that is not called Kingdoms so I renamed 
 - Swapped Weather Witch 1st and 2nd weapon.
 
 #### Veruna
-<<<<<<< HEAD
-- Fixed Kirenna bug where she wouldn't attack unless you clicked twice.
-- Fixed Centaur weapon not being guided.
-- Fixed Lighthouse paralyze weapon, adjusted for 1s stuns.
-- In special, Kirenna delays to attack, sometimes you would click and she wouldn't attack.
-  
-=======
 - Fixed Kirenna attack delays where you needed to double click in order to her start attacking.
 - Catapult now shoots faster (and moving units) but is more imprecise (like aramon catapult)
 - Fixed Centaur weapon not being guided.
 - Fixed Lighthouse paralyze weapon, adjusted for 0.5s stuns.
 
->>>>>>> 65114ad1cc6949d9df84b8800302ab68b43d73c8
 #### Zhon
 - Fixed Thirsha 2nd weapon not being guided.
 - Adjusted Thirsha 2nd weapon velocity to match previous velocity (before being guided).
