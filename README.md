@@ -1,6 +1,6 @@
 # Enhanced TA:K
 Adds new features and bugfixes to improve TA:K experience.
-It's totally compatible with other 4.1bb versions (with the small exception of Monarch fixes, which will bug opponent monarch animation if his version is different).
+It's totally compatible with other 4.1bb versions!
 
 ## How to install
 
@@ -9,13 +9,10 @@ It's totally compatible with other 4.1bb versions (with the small exception of M
   - Kingdoms.exe
   - EnhancedTAK.dll
   - EnhancedTAK.hpi
-  - MonarchsFix.hpi
 
 Use [DXWnd](http://kingdoms.catsboard.com/t1522-how-to-use-dxwnd) to improve even more your experience.  
 
-The reason Monarchs Fix is separated is that, when playing on different versions, your opponent monarch animation won't work. So you may want to disable it when playing multiplayer by moving it out of the folder (it's just a visual thing tho).  
-
-Also, GameRanger won't accept any file that is not called Kingdoms so I renamed it to Kingdoms.exe. You can overwrite or backup your own file. The real original executable is the .icd file anyway (you can rename it to .exe and run it).
+GameRanger won't accept any file that is not called Kingdoms so I renamed it to Kingdoms.exe. You can overwrite or backup your own file. The real original executable is the .icd file anyway (you can rename it to .exe and run it).
 
 ## Features
 * New badass icon.
@@ -40,12 +37,6 @@ Also, GameRanger won't accept any file that is not called Kingdoms so I renamed 
 - The game now saves your unit limit value used in your previous multiplayer match properly.
 - Some screen changes will be faster now.
 
-#### Monarchs' Fix
-
-- All monarch's buggy animations after making ghosts, building, walking, turning and building, some would override others and result in a buggy animation (Lokken, for example), you can test that by starting building something then clicking many times into it.
-
-- In special, Kirenna delays to attack, sometimes you would click and she wouldn't attack.
-
 #### Aramon
 - Fixed Elsin wave bug where he couldn't wave for the rest of the match.
 - Fixed Mage Archer paralyze weapon, adjusted for 5s stuns.
@@ -56,9 +47,11 @@ Also, GameRanger won't accept any file that is not called Kingdoms so I renamed 
 - Fixed Fire Mage first attack not hitting goblins.
 
 #### Veruna
+- Fixed Kirenna bug where she wouldn't attack unless you clicked twice.
 - Fixed Centaur weapon not being guided.
 - Fixed Lighthouse paralyze weapon, adjusted for 1s stuns.
-
+- In special, Kirenna delays to attack, sometimes you would click and she wouldn't attack.
+  
 #### Zhon
 - Fixed Thirsha 2nd weapon not being guided.
 - Fixed Wisp not attacking consistently.
