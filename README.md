@@ -1,5 +1,5 @@
 # Enhanced TA:K
-Adds new features and bugfixes to improve TA:K Crusades Balance experience.
+Adds new features and bugfixes to improve TA:K Crusades Balance experience.  
 It's totally compatible with other 4.1bb versions.
 
 ## How to install
