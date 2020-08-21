@@ -32,14 +32,14 @@ Also, GameRanger won't accept any file that is not called Kingdoms so I renamed 
 
 ## Game Changing Tweaks
 
+- Wisps can now attack consistently.
+- Mage Archer's 3rd weapon and Lighthouse's weapon now paralyze correctly.
+- Elsin wave bugfix and Kirenna getting stuck when ordering her to attack.
+- Thirsha's 2nd weapon and Centaur's weapon are now guided.
 - Rolling Towers aren't capturable.
 - Knights aren't freezeable.
-- Thirsha's 2nd weapon and Centaur's weapon are now guided.
-- Mage Archer's 3rd weapon and Lighthouse's weapon now paralyze correctly.
-- Wisps can now attack consistently.
 - Fire Demon's attack delay against moving targets is gone.
 - Acolyte and Weather Witch 1st and 2nd weapon have been swapped.
-- Elsin wave bugfix and Kirenna getting stuck when ordering her to attack.
 
 ## Detailed Log
 
