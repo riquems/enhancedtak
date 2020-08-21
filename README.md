@@ -39,6 +39,7 @@ Also, GameRanger won't accept any file that is not called Kingdoms so I renamed 
 - Wisps can now attack consistently.
 - Fire Demon's attack delay against moving targets is gone.
 - Acolyte and Weather Witch 1st and 2nd weapon have been swapped.
+- Elsin wave bugfix and Kirenna getting stuck when ordering her to attack.
 
 ## Detailed Log
 
